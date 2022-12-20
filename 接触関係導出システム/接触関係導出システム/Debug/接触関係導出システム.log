@@ -1,0 +1,25 @@
+﻿  接触関係導出システム.c
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(90,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(91,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(112,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(115,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(116,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(117,6): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(133,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(148,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(159,2): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(168,3): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(142,6): warning C4101: 'trash': ローカル変数は 1 度も使われていません。
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(144,9): warning C4101: 'trash_double': ローカル変数は 1 度も使われていません。
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(143,7): warning C4101: 'trash_char': ローカル変数は 1 度も使われていません。
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(187,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(188,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(189,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(192,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(198,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(181,23): warning C4101: 'a': ローカル変数は 1 度も使われていません。
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(247,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(242,6): warning C4101: 'c': ローカル変数は 1 度も使われていません。
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(266,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\接触関係導出システム\接触関係導出システム.c(267): warning C4172: ローカル変数またはテンポラリのアドレスを返します: buf
+  接触関係導出システム.vcxproj -> C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\Debug\接触関係導出システム.exe

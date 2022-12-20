@@ -1,0 +1,3 @@
+water_valve
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\Debug\Input\water_valve_接触関係_組立位置情報.csv
+C:\Users\tomok\OneDrive\デスクトップ\接触関係導出システム\Debug\Output
